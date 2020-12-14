@@ -1,1 +1,1 @@
-# ubiquitous-octo-enigma
+# pre defined image classifier
